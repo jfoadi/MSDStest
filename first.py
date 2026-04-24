@@ -3,3 +3,6 @@
 ###
 
 print("Hello World")
+
+# Print goodbye
+print("Goodbye World")
